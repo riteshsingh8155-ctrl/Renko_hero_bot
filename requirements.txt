@@ -1,2 +1,8 @@
 Flask
 requests
+pyTelegramBotAPI
+yfinance
+ta
+pandas
+flask
+lxml
